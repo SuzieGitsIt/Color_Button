@@ -1,5 +1,3 @@
-# https://courses.ischool.berkeley.edu/i90/f11/resources/chapter10/click_counter.py
-
 import tkinter as tk
 import tkinter.ttk as ttk   
 
